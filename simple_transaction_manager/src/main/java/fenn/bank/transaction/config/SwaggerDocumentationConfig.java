@@ -17,8 +17,8 @@ public class SwaggerDocumentationConfig {
 
     ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-            .title("Simple microservice bank account management")
-            .description("Simple microservice report generation no really crud.")
+            .title("Simple microservice for simple transaction management")
+            .description("Simple microservice for reading and write simple transaction.")
             .license("")
             .licenseUrl("")
             .termsOfServiceUrl("")

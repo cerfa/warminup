@@ -1,10 +1,10 @@
-package reghub_excel_report_generator;
+package simpleTransaction;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ReghubExcelReportGeneratorApplicationTests {
+class SimpleTransactionApplicationTests {
 
 	@Test
 	void contextLoads() {
